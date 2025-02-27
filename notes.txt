@@ -1,0 +1,2 @@
+1. briefly discuss the module usage
+2. point out the oops concepts in the project
